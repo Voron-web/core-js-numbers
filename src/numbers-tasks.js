@@ -327,8 +327,6 @@ function isPowerOfTwo(num) {
   return Number.isInteger(Math.log2(num));
 }
 
-console.log(isPowerOfTwo(512));
-
 /**
  * Returns the sine of a number.
  *
